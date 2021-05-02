@@ -1,0 +1,10 @@
+yarn init -y
+yarn tsc --init (Cria arquivo config de TS)
+
+Dependências
+yarn add express
+
+Dependências Dev
+yarn add @types/express -D
+yarn add typescript -D
+yarn add ts-node-dev -D
